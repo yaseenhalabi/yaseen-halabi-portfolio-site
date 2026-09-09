@@ -13,7 +13,7 @@ function Projects() {
   const PROJECT_DATA = [
     {
       title: "Delay",
-      description: "A moble app I made that makes you answer multiple choice questions for screen time. It has 10k downloads and is 4.8 stars on the App Store",
+      description: "A mobile app I made that makes you answer multiple choice questions for screen time. It has 10k downloads and is 4.8 stars on the App Store",
       image: delay,
       link: "https://apps.apple.com/us/app/delay-study-before-you-scroll/id6749641307"
     },
